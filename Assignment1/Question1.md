@@ -57,7 +57,7 @@ Turing predicted that by the year 2000, a computer would have a 30% chance of pa
   
 - **Post-2000 Developments**: Since 2000, AI has advanced dramatically, particularly with the rise of **machine learning** and **deep learning**. In 2014, a chatbot named **Eugene Goostman** reportedly passed the Turing Test by convincing 33% of judges that it was a 13-year-old boy. While this result was controversial, it suggests that Turing's prediction was not far off.
 
-- **Current State**: Today, AI systems like **OpenAI's GPT-4** can engage in highly convincing conversations, but they still struggle with **contextual understanding**, **common sense reasoning**, and **long-term coherence**. While they can sometimes fool humans in short interactions, they are far from achieving the general intelligence Turing envisioned.
+- **Current State**: Today, AI systems like **OpenAI's GPT-4** can engage in highly convincing conversations as their LLMs are quite devvloped, but they still struggle with **contextual understanding**, **common sense reasoning**, and **long-term coherence**. While they can sometimes fool humans in short interactions, they are far from achieving the general intelligence Turing envisioned.
 
 ---
 
